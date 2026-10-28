@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 from main
+=======
+from branch1
+>>>>>>> branch
